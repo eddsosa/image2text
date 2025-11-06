@@ -1,7 +1,7 @@
 ## Making a textfile from an image file (pdf or image)
 
-It uses 
-
+image2text is a Python module created to process PDF or image files into a structured text ussing Tesseract OCR. It supports optional preprocessing to enhance recognition accuracy and allows custom OCR configurations to prioritize numeric and symbolic characters.
+ 
 Tesseract and OCR are used to recognice text from images.
  - First tramsform PDF into images, one each page.
  - Preprocess images if necesary. Preset on default.
@@ -93,22 +93,22 @@ Images: .jpg, .png, .tif, .bmp, .webp, etc.
 
 PDFs: multi-page conversion via pdf2image
 
-🧠 Custom OCR Configuration
+### 🧠 Custom OCR Configuration
 
 Enable whitelist for numeric and symbolic OCR:
 
 text
 --oem 3 --psm 6 -c tessedit_char_whitelist=0123456789.,|/$%
 
-📜 License
+### 📜 License
 
 This project is licensed under the MIT License. See LICENSE for details.
 
-🤝 Contributing
+### 🤝 Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you’d like to modify.
 
-🧭 Roadmap
+### 🧭 Roadmap
 
 [ ] CLI support via argparse
 
@@ -118,12 +118,16 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 [ ] Skew correction and contrast enhancement modules
 
-The testImage was obtained from https://towardsdatascience.com/extracting-text-from-scanned-pdf-using-pytesseract-open-cv-cd670ee38052/#:~:text=view%20raw%20Crop_and_OCR.py%20hosted,Cv2%20Invoice%20Ocr%20Pytesseract%20Python
+
+
+The testImage was obtained from [https://towardsdatascience.com/](https://towardsdatascience.com/extracting-text-from-scanned-pdf-using-pytesseract-open-cv-cd670ee38052/#:~:text=view%20raw%20Crop_and_OCR.py%20hosted,Cv2%20Invoice%20Ocr%20Pytesseract%20Python)
 
 ### 👨‍🔬 Author
 
-Juan Eduardo Sosa Hernández 
+Juan Eduardo Sosa Hernández
+
 Scientist | Innovation | Data Science 
+
 [LinkedIn](https://www.linkedin.com/in/j-eduardo-sosa-hern%C3%A1ndez-4957aa16/) | [Scholar Google](https://scholar.google.com.mx/citations?user=OQMo_yIAAAAJ&hl=en)
 
 ### :scroll: License
