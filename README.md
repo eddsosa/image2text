@@ -120,7 +120,12 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 The testImage was obtained from https://towardsdatascience.com/extracting-text-from-scanned-pdf-using-pytesseract-open-cv-cd670ee38052/#:~:text=view%20raw%20Crop_and_OCR.py%20hosted,Cv2%20Invoice%20Ocr%20Pytesseract%20Python
 
+### 👨‍🔬 Author
 
-### License
+Juan Eduardo Sosa Hernández 
+Scientist | Innovation | Data Science 
+[LinkedIn](https://www.linkedin.com/in/j-eduardo-sosa-hern%C3%A1ndez-4957aa16/) | [Scholar Google](https://scholar.google.com.mx/citations?user=OQMo_yIAAAAJ&hl=en)
+
+### :scroll: License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
