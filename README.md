@@ -107,3 +107,8 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 [ ] Skew correction and contrast enhancement modules
 
 The testImage was obtained from https://towardsdatascience.com/extracting-text-from-scanned-pdf-using-pytesseract-open-cv-cd670ee38052/#:~:text=view%20raw%20Crop_and_OCR.py%20hosted,Cv2%20Invoice%20Ocr%20Pytesseract%20Python
+
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
