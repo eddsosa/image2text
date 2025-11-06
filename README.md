@@ -25,7 +25,8 @@ image2text.image2text(file_name)
 image2text: Modular OCR Pipeline for Images and PDFs
 image2text is a Python-based tool for extracting text from images and PDF files using Tesseract OCR. It supports preprocessing for improved accuracy and is designed with reproducibility and modularity in mind—ideal for scientific workflows, diagnostics, and document parsing.
 
-🚀 Features
+### 🚀 Features
+
 ✅ Supports both image files and multi-page PDFs
 
 🧼 Optional preprocessing: grayscale, denoising, thresholding, dilation
@@ -36,7 +37,8 @@ image2text is a Python-based tool for extracting text from images and PDF files 
 
 📊 Ready for benchmarking and parameter sweeps
 
-📦 Installation
+### 📦 Installation
+
 bash
 pip install -r requirements.txt
 Dependencies:
@@ -55,7 +57,8 @@ matplotlib
 
 Make sure Tesseract OCR is installed and accessible in your system path.
 
-🧪 Usage
+### 🧪 Usage
+
 python
 from image2text import image2text
 
@@ -68,7 +71,10 @@ Use custom OCR configuration (yes/no)
 
 Extracted text is saved to output.txt.
 
-⚙️ Preprocessing Pipeline
+Usage examples with [Jupyter Notebook](sample.ipynb) and [Python](testpipeline.py).
+
+### ⚙️ Preprocessing Pipeline
+
 text
 RGB → Grayscale → Resize → Dilation → Bilateral Filter → Adaptive Threshold → Morphological Cleaning
 You can modify parameters like:
@@ -79,7 +85,8 @@ adaptiveThreshold block size and constant
 
 bilateralFilter kernel size and sigma values
 
-📁 File Support
+### 📁 File Support
+
 Supports:
 
 Images: .jpg, .png, .tif, .bmp, .webp, etc.
@@ -87,17 +94,22 @@ Images: .jpg, .png, .tif, .bmp, .webp, etc.
 PDFs: multi-page conversion via pdf2image
 
 🧠 Custom OCR Configuration
+
 Enable whitelist for numeric and symbolic OCR:
 
 text
 --oem 3 --psm 6 -c tessedit_char_whitelist=0123456789.,|/$%
+
 📜 License
+
 This project is licensed under the MIT License. See LICENSE for details.
 
 🤝 Contributing
+
 Pull requests are welcome. For major changes, please open an issue first to discuss what you’d like to modify.
 
 🧭 Roadmap
+
 [ ] CLI support via argparse
 
 [ ] OCR confidence logging
@@ -109,6 +121,6 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 The testImage was obtained from https://towardsdatascience.com/extracting-text-from-scanned-pdf-using-pytesseract-open-cv-cd670ee38052/#:~:text=view%20raw%20Crop_and_OCR.py%20hosted,Cv2%20Invoice%20Ocr%20Pytesseract%20Python
 
 
-## License
+### License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
