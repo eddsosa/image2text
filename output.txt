@@ -1,0 +1,107 @@
+--- Page 1 ---
+Invoice no. DVT-AX-345678
+
+Payment date: 03/12/2006
+
+Reference.
+Work |
+
+SERVICE D
+SERVICE D
+
+Exterior parts:
+
+JO.297.065:FP
+JO.197.075:FP
+
+JO.199.059.0S
+
+VI.261.036.BC.
+
+Designation
+
+COMPLETE OVERHAUL
+REFRESHING COMPLETE CASE
+AND: RHODIUM BATH
+
+FLAT GASKET
+FLAT.GASKET
+FLAT ROUND GASKET _
+W.G.FIXATION SCREWS
+WHITE GOLD “FOIL"
+PAIROFHAND
+LENGTH: 10/13.50MM
+
+CALIBRE 2868
+
+~ SPECIAL DISCOUNT
+
+Discount
+
+Total CHF
+
+RETURN AFTER REPAIR.
+NO COMMERCIAL VALUE
+
+mA ok a
+
+Qty Unit price
+
+1 5500.00
+
+1 380.00
+
+3:00
+4:00
+6:00
+0 4:00
+70.00
+
+“3003.00.
+-900.00
+
+Mr. John Doe
+
+Payment:
+
+Total‘ CHF
+
+5500.00
+
+380.00
+
+3,00
+
+4.00
+6.00
+
+40:00
+
+70.00
+
+~~ -3003.00
+-900.00
+
+9400.00
+
+‘Green Street 15, Office 4
+
+1234 Vermut
+
+New Caledonia
+
+‘Credit Card: Visa
+Card No: 112345678.
+
+Sales
+
+220
+220
+
+220
+220
+220
+220
+220:
+
+
