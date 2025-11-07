@@ -129,7 +129,7 @@ Juan Eduardo Sosa Hernández
 Scientist | Innovation | Data Science 
 
 [LinkedIn](https://www.linkedin.com/in/j-eduardo-sosa-hern%C3%A1ndez-4957aa16/) | [Scholar Google](https://scholar.google.com.mx/citations?user=OQMo_yIAAAAJ&hl=en)
-
+| [BlueSky](https://bsky.app/profile/eddsosa.bsky.social)
 ### :scroll: License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
